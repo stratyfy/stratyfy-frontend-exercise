@@ -1,10 +1,10 @@
-# Stratyfy React coding exercise
+# Stratyfy coding exercise
 
 ## Introduction
 
 Attached is data representing annual sales at an ice cream parlor.  Please download the data and set up a React project to display it.
 
-We don't want to take up very much of your time; if you find yourself done pretty quickly, that's intentional!
+Please feel free to stop or contact us if you find the exercise taking more than a few hours; we don't want to use large amounts of your time.
 
 ## Specification
 
@@ -24,7 +24,7 @@ Your result should be readable, **but you need not spend time making it very att
 
 Your code **should not depend on the exact contents of this data**.  You can of course assume the form of the data -- i.e., a moderately sized array of objects, with these fields having these types -- but, for example, you should not assume these particular flavors are the ones available.
 
-When you're happy with your work, please share it with us, e.g. by sharing a GitHub repo.
+When you're happy with your work, please share it with us, e.g. by sharing a GitHub repo.  Please don't hesitate to ask if anything is unclear or troublesome.
 
 ## Interview
 

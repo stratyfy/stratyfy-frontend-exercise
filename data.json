@@ -2,31 +2,31 @@
   {
     "flavor": "vanilla",
     "toppings": "fudge",
-    "sales": 12968
+    "sales": 12386
   },
   {
     "flavor": "vanilla",
     "toppings": "candy",
-    "sales": 14305
+    "sales": 17528
   },
   {
     "flavor": "chocolate",
     "toppings": "fudge",
-    "sales": 20457
+    "sales": 17453
   },
   {
     "flavor": "chocolate",
     "toppings": "candy",
-    "sales": 16717
+    "sales": 22628
   },
   {
     "flavor": "strawberry",
     "toppings": "fudge",
-    "sales": 21925
+    "sales": 12863
   },
   {
     "flavor": "strawberry",
     "toppings": "candy",
-    "sales": 12567
+    "sales": 21559
   }
 ]
